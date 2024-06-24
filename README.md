@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP,Laravel**
 
-- 📫 How to reach me **kyawzinaung.186380@gmail.com**
+- 📫 How to reach me kyawzinaung.186380@gmail.com
 
 - ⚡ Fun fact **I am funny**
 
