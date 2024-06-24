@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kyaw zin aung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyaw zin aung" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kyaw-zin-aung-412078277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyaw zin aung" height="30" width="40" /></a>
 <a href="https://fb.com/kyaw zin aung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kyaw zin aung" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kyaw zin aung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kyaw zin aung" height="30" width="40" /></a>
 </p>
